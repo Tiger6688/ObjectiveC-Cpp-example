@@ -1,4 +1,4 @@
-Objective-Cpp-example
+ObjectiveC-Cpp-example
 =====================
 
 Show how to integrate C++ classes into your Objective-C project
